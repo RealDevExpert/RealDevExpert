@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm realdevexpert</h1>
-<h3 align="center">I’m a passionate software engineer with X+ years of experience in designing, developing, and maintaining robust applications. My expertise lies in full-stack development, cloud computing, and agile methodologies. I thrive on solving complex problems and collaborating with cross-functional teams to deliver high-quality software.</h3>
+<h3 align="center">I’m a passionate software engineer with 9 years of experience in designing, developing, and maintaining robust applications. My expertise lies in full-stack development, cloud computing, and agile methodologies. I thrive on solving complex problems and collaborating with cross-functional teams to deliver high-quality software.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realdevexpert" alt="realdevexpert" /></a> </p>
-
-- 🔭 I’m currently working on **Microsoft**
 
 - 📫 How to reach me **georgedotjmartinez@outlook.com**
 
